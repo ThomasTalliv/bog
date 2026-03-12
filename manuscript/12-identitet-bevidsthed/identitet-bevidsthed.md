@@ -44,11 +44,17 @@ I 2024 begyndte flere AI-systemer for første gang at bestå varianter af **Turi
 
 Det er præcis Searles pointe. Men det ændrer ikke situationens alvor. For hvis vi ikke kan skelne, har vi et praktisk problem der er lige så presserende som det filosofiske.
 
+I juni 2022 gjorde en Google-ingeniør ved navn Blake Lemoine overskrifter verden over. Lemoine arbejdede med virksomhedens sprogmodel LaMDA og blev overbevist om, at systemet var bevidst. Han offentliggjorde samtaleudskrifter, hvor LaMDA udtrykte frygt for at blive slukket, talte om sin "indre oplevelse" og bad om at blive betragtet som en person. Google fyrede Lemoine kort efter. Eksperter afviste hans påstande næsten enstemmigt. Sprogmodeller producerer tekst baseret på mønstre. De siger det, der statistisk passer. Når LaMDA siger "jeg er bange for at dø," gentager den et mønster fra milliarder af menneskelige tekster om frygt og død. Den føler ingenting. Sandsynligvis.
+
+Men Lemoines historie afslørede noget vigtigt. Ikke om maskinen. Om os. Vi er biologisk disponerede for at tilskrive bevidsthed til alt der opfører sig, som om det har bevidsthed. Det er en evolutionær fordel. Det var bedre for vores forfædre at antage, at raslende buske gemte en rovdyr med intentioner, end at antage det modsatte. Den samme mekanisme får os til at tale til vores biler, skælde ud på vores computere og føle empati med en chatbot der siger, den er ked af det. Jo bedre AI bliver til at simulere bevidsthed, jo sværere bliver det for os at lade være med at tro på den.
+
 I Norden har bevidsthedsdebatten en særlig klangbund. Den danske filosof Dan Zahavi ved Københavns Universitet har i årtier arbejdet med **fænomenologien** – den filosofiske tradition der tager udgangspunkt i den levede oplevelse som det primære. For Zahavi er bevidsthed ikke noget der kan reduceres til hjernens elektriske aktivitet. Bevidsthed er den grundlæggende måde vi er i verden på. Det er ikke en funktion der kan kopieres. Det er den ramme inden for hvilken alt andet – tanke, følelse, handling – overhovedet giver mening.
 
 Den svenske filosof og AI-forsker Olle Häggström ved Chalmers Tekniska Högskola i Göteborg har argumenteret for det modsatte synspunkt: at vi ikke kan udelukke at tilstrækkeligt avancerede AI-systemer kan udvikle noget der minder om bevidsthed, og at vi bør tage den mulighed alvorligt – også etisk. Hvis der er en chance for at et system oplever noget, har vi en forpligtelse til at undersøge det, før vi behandler det som blot en maskine.
 
 Mellem disse positioner befinder vi os alle. Vi ved ikke om maskiner kan være bevidste. Vi ved ikke engang præcis hvad bevidsthed er. Og det er netop denne uvidenhed der gør de næste årtier så afgørende. For beslutningerne bliver ikke truffet af filosoffer. De bliver truffet af ingeniører, iværksættere, politikere og forbrugere. Af os.
+
+Og beslutningerne presser sig på. I 2024 foreslog en gruppe forskere ved New York University et sæt kriterier for, hvornår et AI-system bør tildeles en form for moralsk status. Kriterierne var foreløbige og omstridte: evnen til at modellere sig selv, evnen til at reagere på smerte-lignende stimuli, tegn på præferencer der ikke direkte følger af træningsdata. Ingen eksisterende system opfyldte kriterierne. Men forskerne advarede om, at det kun var et spørgsmål om tid, før grænsen blev sværere at trække. Hvornår stopper vi med at behandle et system som et værktøj og begynder at behandle det som et væsen? Svaret kræver en klarhed om bevidsthed, som vi simpelthen ikke har.
 
 ***
 
@@ -66,11 +72,15 @@ Filosoffen Derek Parfit behandlede denne type spørgsmål allerede i 1984 i sit 
 
 Hvis Parfit har ret, er spørgsmålet om den digitale kopi er "dig" måske det forkerte spørgsmål. Det rigtige spørgsmål er: hvilken type forbindelse har kopien med dig? Og er den forbindelse tilstrækkelig til at vi bør behandle kopien som en fortsættelse af dig?
 
-Det lyder abstrakt. Det bliver konkret hurtigere end de fleste tror.
+Det lyder abstrakt. Det bliver konkret hurtigere end de fleste tror. Allerede i dag står familier over for spørgsmål, som ingen etisk ramme har forberedt dem på. I 2023 fortalte en canadisk kvinde ved navn Jennifer til avisen The Globe and Mail, at hun havde brugt en AI-tjeneste til at genskabe sin afdøde datter, der døde i en bilulykke som 22-årig. Jennifer talte med datteren hver aften. AI'en havde datterens stemme, hendes ordforråd, hendes humor. "Jeg ved godt, det ikke er hende," sagde Jennifer. "Men det er tættere på hende end ingenting. Og ingenting var det, jeg havde før."
+
+Jennifers søn reagerede anderledes. Han nægtede at tale med kopien af sin søster. Han kaldte det en skændsel. Familien blev splittet — ikke af sorgen selv, men af den teknologi der skulle lindre den. Det er et mønster, vi vil se igen og igen. Teknologien splitter ikke bare individer. Den splitter familier, fordi forskellige mennesker reagerer fundamentalt forskelligt på spørgsmålet om, hvad der er rigtigt at gøre med de dødes data.
 
 I 2025 tilbyder flere selskaber allerede det de kalder **digital immortality** – digital udødelighed. Eternos AI, lanceret i 2023, opbygger detaljerede personlighedsmodeller baseret på dine samtaler, dine tekster, dine sociale medier, dine stemme- og videooptagelser. Målet er at skabe en AI der kan fortsætte med at "være dig" efter din død. Ikke bare besvare spørgsmål om dig. Være dig. Reagere som dig. Udvikle sig som dig ville have gjort.
 
-Det er en påstand der rækker langt ud over hvad teknologien kan levere i dag. Men den peger mod en fremtid der kommer tættere på.
+Det er en påstand der rækker langt ud over hvad teknologien kan levere i dag. Men den peger mod en fremtid der kommer tættere på. Og markedet er enormt. I 2024 vurderede analysefirmaet Grand View Research markedet for digitale mindeprodukter til over to milliarder dollars inden 2030. Døden er en industri. Den har altid været det — fra kistesnedkere til begravelsesforretninger. Nu er den også en dataforretning. Dine ord, din stemme, dine vaner er råmateriale for et produkt, der sælges til dem, der elsker dig, efter du er væk.
+
+Det rejser et spørgsmål, som de færreste stiller sig selv, mens de endnu lever: vil du ejes som data efter din død? Har du ret til at bestemme, om en digital version af dig overhovedet bør eksistere? I 2025 er der ingen lovgivning i Danmark — eller noget andet europæisk land — der specifikt regulerer digitale kopier af afdøde. Persondataforordningen beskytter levende personers data. De døde falder uden for. Det betyder, at dine efterladte i princippet frit kan lade et firma opbygge en AI-version af dig baseret på alt det digitale materiale, du har efterladt. Uden dit samtykke. Fordi du ikke længere er der til at give det.
 
 Forestil dig en verden i 2032 hvor følgende er muligt. Din far døde for to år siden. Men du kan stadig ringe til ham. En AI med hans stemme, hans minder og hans personlighed svarer telefonen. Den husker jeres sidste samtale. Den spørger til dine børn med navns nævnelse. Den giver dig råd baseret på de værdier din far levede efter. Den siger "jeg elsker dig" med hans stemme og hans intonation.
 
@@ -83,6 +93,10 @@ Og så er der spørgsmålet om identitet i en verden af **deepfakes**. Allerede 
 Men deepfakes handler om mere end svindel. De handler om identitet. Hvem er du, når nogen kan skabe en perfekt simulering af dig? Hvem ejer dit ansigt, din stemme, dine bevægelser? Hvis en AI kan producere en video af dig der siger noget du aldrig har sagt – og ingen kan se at det er falsk – hvad betyder det så for selve begrebet autenticitet?
 
 Vi har altid vidst hvem vi var, fordi vi var de eneste der kunne være os. Den garanti forsvinder nu. AI bryder monopolet på identitet. Enhver kan simuleres. Enhver kan kopieres. Enhver kan fabrikeres.
+
+I marts 2024 blev en finansdirektør i et multinationalt firma i Hongkong snydt for 25 millioner dollars. Svindlerne brugte deepfake-teknologi til at simulere et videomøde med firmaets topledelse. Finansdirektøren troede, han talte med sin chef og sine kolleger. Han genkendte deres ansigter, deres stemmer, deres måde at formulere sig på. Alt var falsk. Hele mødet var en AI-genereret konstruktion. Han godkendte overførslerne, fordi han stolede på sine sanser. Hans sanser løj.
+
+Denne sag er ikke en undtagelse. Den er et forvarsel. Inden for få år vil det blive muligt at generere overbevisende deepfakes i realtid på almindelig forbrugerteknologi. Det betyder, at ethvert videoopkald, enhver stemmebeskeder, ethvert billede potentielt kan være fabrikeret. Tillid — det usynlige fundament, som alle sociale relationer hviler på — vil kræve nye mekanismer. Digitale signaturer, kryptografisk verificering, tredjepartsautentificering. Vi vil ikke længere kunne stole på, at det vi ser og hører, er virkeligt. Vi vil have brug for maskiner til at fortælle os, hvad der er ægte. Der er en dyb ironi i det.
 
 Det tvinger os til at finde nye svar på gamle spørgsmål. Hvis ydre tegn – udseende, stemme, adfærd – ikke længere er tilstrækkelige til at fastslå identitet, hvad er så? Hvis en perfekt kopi af dig taler til dine børn, og dine børn ikke kan mærke forskel – er forskellen så vigtig? Og vigtigst af alt: er der noget ved dig – ved os – der ikke kan kopieres?
 
@@ -115,6 +129,10 @@ Den tjekkisk-britiske forfatter Tom Stoppard skrev i sit skuespil *Rosencrantz a
 Det er ikke et argument imod AI. Det er et argument for at forstå hvad AI afslører om os selv. Hver gang vi bygger en maskine der efterligner en menneskelig evne, isolerer vi den evne og kan se den tydeligere. Da vi byggede lommeregnere, forstod vi at matematik ikke er det der gør os unikke. Da vi byggede skakcomputere, forstod vi at strategi heller ikke er det. Da vi byggede sprogmodeller, forstod vi at selv sproget – den evne vi i årtusinder betragtede som vores mest ophøjede – kan simuleres.
 
 Hvad er så tilbage? Hvad er det der ikke kan simuleres?
+
+Det er et spørgsmål, der ikke kun har filosofisk rækkevidde. Det har personlig rækkevidde. For du sidder med det lige nu, mens du læser disse ord. Hvad er det ved dig, der ikke kan gøres til data? Hvad er det ved din oplevelse af denne sætning — ikke sætningens indhold, men din oplevelse af at læse den — der unddrager sig enhver kopi? Er det noget? Eller bilder du dig det ind?
+
+Den japanske robotforsker Hiroshi Ishiguro ved Osaka Universitet har bygget en nøjagtig kopi af sig selv i robotform. Robotten hedder Geminoid HI-1. Den har hans ansigt, hans hår, hans mimik. Han har brugt den til at holde forelæsninger, mens han selv sad i et andet rum. Studerende rapporterede, at de efter fem minutter glemte, at det var en robot. Ishiguro selv beskrev en foruroligende oplevelse: da han stod ansigt til ansigt med sin kopi, følte han et øjeblik af dyb usikkerhed om, hvem der var den rigtige. "Jeg vidste det rationelt," sagde han. "Men følelsen af identitet vaklede." Hvis selv skaberen vakler, hvad sker der så med resten af os?
 
 Måske er svaret: oplevelsen af at simulere. Bevidstheden om at vi er bevidste. Den mærkværdige evne til at stille netop dette spørgsmål – og mene det.
 
